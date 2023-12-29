@@ -23,6 +23,7 @@ header {
 .container {
   position: absolute;
   width: 600px;
+  height: 95vh;
   margin: 10px auto;
   border: 5px solid #989bed;
   overflow: hidden;
